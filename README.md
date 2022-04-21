@@ -5,9 +5,9 @@
 - 👯 Contate-me pelo email: rayanefernanda12@hotmail.com
 - 😄 Pronouns: ela/dela
 
-<div>
+<div align="center">
   <a href="https://github.com/ray-fernanda">
-  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=ray-fernanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-fernanda&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ray-fernanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-fernanda&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
