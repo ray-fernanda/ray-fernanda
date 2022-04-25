@@ -1,5 +1,4 @@
 <h1>Olá! Seja bem-vindo(a)</h1>
-
 <p>Meu nome é Rayane, tenho 19 anos e moro em Itu-SP!</p>
 
 <ul>
@@ -16,4 +15,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ray-fernanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-fernanda&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
