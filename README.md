@@ -1,4 +1,4 @@
-<h1>Olá! Seja bem-vindo(a)</h1>
+<h1>Olá! Seja bem-vindo 😄(a)</h1>
 <p>Meu nome é Rayane, tenho 19 anos e moro em Itu-SP!</p>
 
 <ul>
