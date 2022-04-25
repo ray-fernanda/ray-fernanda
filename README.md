@@ -4,6 +4,9 @@
 <li>🌱 Estudando JavaScript</li>
 <li>👯 Contate-me pelo email: rayanefernanda12@hotmail.com</li>
 <li>😄 Pronouns: ela/dela</li>
+
+<br>
+
 <div align="center">
   <a href="https://github.com/ray-fernanda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ray-fernanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
