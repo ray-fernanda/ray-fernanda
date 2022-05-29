@@ -1,7 +1,6 @@
 <h1 align="center">Olá 👋 Seja bem-vindo(a) 😄</h1>
 <h3 align="center">Meu nome é Rayane, tenho 19 anos e moro em Itu-SP!</h3>
 <br>
-<img align="right" alt="Joey Friends" width="400" src="https://c.tenor.com/mSZrQRlwedIAAAAC/joey-waving-hello-on-a-chair.gif">
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas
 - 👩‍💻 Técnica em Informática para Internet
